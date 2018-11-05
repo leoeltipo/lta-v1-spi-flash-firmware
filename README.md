@@ -1,2 +1,3 @@
-# lta-v1-spi-flash-firmware
-Firmware of the lta board (first fabrication) for spi controlled flash read/write.
+Project that allows accessing the platform flash using the
+SPI I/F after boot.
+
